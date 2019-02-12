@@ -241,7 +241,6 @@ Vale_Bandito	16	Смотрящий
 Tema_Gold	10	Смотрящий
 Maks_Tororoshenko	8	Исполнитель
 Martin_Kushev	17	Исполнитель
-Xavier_Skrillex	30	Исполнитель
 Dimka_Enrike	10	Исполнитель
 Easy_Gold	5	Исполнитель
 Sidney_Constantine	18	Арестант
@@ -268,6 +267,7 @@ Max_Tang	31	Правильный
 Ushan_Cube	16	Правильный
 Alecksandr_Romanov	10	Правильный
 Beatty_Shyba	12	Правильный
+Ejik_Falcone	5	Правильный
 Achtech_Boneme	8	Правильный
 Ale_Bandito	11	Поставщик
 Volodia_Kovalenko	17	Поставщик
@@ -291,7 +291,7 @@ Kevin_Kelly	3	Бык
 Andy_Parker	3	Бык
 Tim_Morris	4	Бык
 Mario_Vulture	7	Бык
-Heis_Vulture	6	Бык
+Heis_Vulture	7	Бык
 Diego_Kanburi	3	Бык
 James_Vulture	3	Бык
 Ruslan_Martynov	15	Щипач
@@ -305,7 +305,6 @@ Vito_Montana	15	Щипач
 Andrey_Bandito	5	Щипач
 Vladislav_Fable	14	Щипач
 Froki_Price	5	Щипач
-Ejik_Falcone	5	Щипач
 Michael_Jordan	5	Щипач
 Phoenix_Aguero	5	Щипач
 Lev_Evtezer	5	Щипач
@@ -332,16 +331,20 @@ Larry_Crews	2	Щипач
 Maestro_Auditore	3	Щипач
 Misha_Arsenon	3	Щипач
 Alex_Met	8	Шнырь
+Marsello_De_Marselle	70	Шнырь
 Dmitriy_Sharper	33	Шнырь
+Goha_Trof	5	Шнырь
 Jon_Colt	6	Шнырь
 Vadim_Legeon	12	Шнырь
 Santos_Legeon	22	Шнырь
+Dustin_Plomingo	76	Шнырь
 Zhenya_Bagrov	10	Шнырь
 Tommy_Legeon	30	Шнырь
 Linda_Bud	7	Шнырь
 Kerz_Navarro	3	Шнырь
 Joseph_Flow	40	Шнырь
 Tomi_Verseti	7	Шнырь
+Xavier_Skrillex	30	Шнырь
 Sanya_Qweaze	11	Шнырь
 Sanya_Bell	9	Шнырь
 Serejka_White	39	Шнырь
@@ -372,6 +375,8 @@ Artem_Sun	4	Шнырь
 Tofik_Walton	2	Шнырь
 Robert_Vinchi	5	Шнырь
 Marc_Price	5	Шнырь
+Marik_Sever	5	Шнырь
+Dima_Sever	6	Шнырь
 David_Alonsa	4	Шнырь
 Dmitry_Klokov	6	Шнырь
 Tony_Soprano	9	Шнырь
@@ -418,3 +423,4 @@ Morti_Sanchez	3	Шнырь
 Paul_Vulture	3	Шнырь
 Yurik_Zlobniy	3	Шнырь
 Yuri_Ogava	3	Шнырь
+Seny_Stark	3	Шнырь
