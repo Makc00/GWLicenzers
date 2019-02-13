@@ -104,13 +104,14 @@ Beezy_Paradox [9]
 Ded_Hasan [13]
 Orhan_Cube [61]
 Frankie_Wilde [15]
-Dima_Constantine	30	Вор в законе
+Dima_Constantine	30	Вор в Законе
 Ishxan_Legeon	40	Положенец
 Andrei_Falcone	58	Положенец
 Leonardo_Gioveze	44	Авторитет
 Ruslan_De_Groot	106	Авторитет
 Allen_Suroviy	70	Авторитет
 Lory_Surovaya	50	Мать Иерархии
+Qwezzy_Ecje	42	Мать Иерархии
 Aleksandr_Tognev	30	Пахан
 Alexandr_Barikello	34	Пахан
 Martin_Constantine	37	Пахан
@@ -150,7 +151,7 @@ Artemko_Saint	30	Пахан
 Alexander_Westley	8	Пахан
 Vovka_Price	3	Пахан
 Porsche_Constantine	7	Пахан
-Lutik_Constantine	55	Пахан
+Nidal_Hasan	16	Пахан
 Mr.Tony_De_Costa	25	Пахан
 Ms.Stella_De_Costa	27	Пахан
 Shrek_Price	11	Пахан
@@ -189,7 +190,6 @@ Aslan_Tomares	10	Легенда
 Djonik_White	40	Легенда
 Aslan_Ecje	62	Легенда
 Skezzy_Thug	33	Легенда
-Qwezzy_Ecje	42	Легенда
 Leeroy_Milton	12	Легенда
 Scarlet_Ecje	23	Легенда
 Qwezzychkis_Andolini	4	Легенда
@@ -197,7 +197,6 @@ Ryos_Backstabber	32	Легенда
 Pabloo_Bomber	5	Легенда
 Yanix_Ecje	4	Легенда
 Catherine_Great	4	Легенда
-Ryder_Attacker	5	Легенда
 Josef_Braun	11	Легенда
 Sergio_de_Carlletto	35	Блатной
 Michael_Tenpeny	30	Блатной
@@ -220,7 +219,7 @@ Dima_Galimov	15	Аристократ
 Lebron_Freeman	24	Вор
 Mike_Tyson	22	Вор
 Dmitriy_Raskolnikov	15	Вор
-Serega_Falcone	20	Вор
+Serega_Falcone	21	Вор
 Jimmy_Legeon	28	Жиган
 Timur_Kanburi	10	Жиган
 Nicholas_Westley	20	Жиган
@@ -232,11 +231,12 @@ Tony_Aguero	30	Смотрящий
 Stiky_Vave	29	Смотрящий
 Mike_Gioveze	55	Смотрящий
 King_Gioveze	30	Смотрящий
+Emak_Homie	32	Смотрящий
 Perchik_Gioveze	22	Смотрящий
 Anthony_Constantine	22	Смотрящий
 Artur_Jan	45	Смотрящий
 Luntik_Constantine	10	Смотрящий
-Gleb_Galimov	16	Смотрящий
+Gleb_Galimov	17	Смотрящий
 Vale_Bandito	16	Смотрящий
 Tema_Gold	10	Смотрящий
 Maks_Tororoshenko	8	Исполнитель
@@ -245,14 +245,13 @@ Dimka_Enrike	10	Исполнитель
 Easy_Gold	5	Исполнитель
 Sidney_Constantine	18	Арестант
 Martin_Ulmer	33	Арестант
-Calipso_Vulture	24	Арестант
 Gamzat_Pro	10	Арестант
+Benzo_Rolling	4	Арестант
 Kost_Cube	19	Бывалый
 Rocket_Gross	53	Бывалый
-Diego_Constantine	20	Бывалый
 Croft_Croftov	3	Бывалый
 Paco_Antigotti	3	Бывалый
-Benzo_Rolling	4	Бывалый
+Panda_Hillz	22	Бывалый
 John_Gioveze	20	Бригадир
 Roy_Constantine	5	Бригадир
 Ayzo_Degenerated	10	Зам.Бригадира
@@ -283,7 +282,6 @@ Roma_Gladyshev	9	Бык
 German_Luiz	10	Бык
 Santiago_Qakean	8	Бык
 Leo_Chiesa	10	Бык
-Ilya_Vulture	10	Бык
 Den_Diego	11	Бык
 Kirill_Piterskiy	4	Бык
 Alones_Makeloak	3	Бык
@@ -331,20 +329,16 @@ Larry_Crews	2	Щипач
 Maestro_Auditore	3	Щипач
 Misha_Arsenon	3	Щипач
 Alex_Met	8	Шнырь
-Marsello_De_Marselle	70	Шнырь
 Dmitriy_Sharper	33	Шнырь
 Goha_Trof	5	Шнырь
 Jon_Colt	6	Шнырь
 Vadim_Legeon	12	Шнырь
 Santos_Legeon	22	Шнырь
-Dustin_Plomingo	76	Шнырь
 Zhenya_Bagrov	10	Шнырь
 Tommy_Legeon	30	Шнырь
 Linda_Bud	7	Шнырь
 Kerz_Navarro	3	Шнырь
-Joseph_Flow	40	Шнырь
 Tomi_Verseti	7	Шнырь
-Xavier_Skrillex	30	Шнырь
 Sanya_Qweaze	11	Шнырь
 Sanya_Bell	9	Шнырь
 Serejka_White	39	Шнырь
@@ -363,6 +357,7 @@ Ryusei_Kato	3	Шнырь
 Salahuddin_Ayubi	4	Шнырь
 Eliza_Bet	7	Шнырь
 Andrev_Rodriges	11	Шнырь
+Vechine_Skrillex	16	Шнырь
 Nika_Ylianova	3	Шнырь
 Billy_Brocks	5	Шнырь
 Strizz_Half	8	Шнырь
@@ -424,3 +419,4 @@ Paul_Vulture	3	Шнырь
 Yurik_Zlobniy	3	Шнырь
 Yuri_Ogava	3	Шнырь
 Seny_Stark	3	Шнырь
+Narkoz_Savana	2	Шнырь
